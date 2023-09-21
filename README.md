@@ -2,8 +2,9 @@
 
 ## Como baixar?
 ```
-Build: yarn
-Start> node app.js
+Se necessário: npm install express
+
+Senão: npm install > npm start
 ```
 
 E então, seja feliz :)
